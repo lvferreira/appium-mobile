@@ -1,2 +1,2 @@
-# AutomacaoMobile_qaNinja
-Automatizando um apk mobile com Appium e Robot Framework
+# QANinja | AutomacaoMobile
+Automação  mobile com Appium e Robot Framework
